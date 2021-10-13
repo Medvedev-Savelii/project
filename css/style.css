@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+}
+
+.yellow {
+  color: yellow;
+  font-size: 35px;
+}
+h1,
+h2 {
+  color: white;
+  font-size: 30px;
+}
